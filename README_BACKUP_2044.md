@@ -14,14 +14,10 @@
 如果这个项目让你有所收获，记得 Star 关注哦，这对我是非常不错的鼓励与支持。
 
 <<<<<<< HEAD
-
-## 🐶 新手必读
-
-=======
-
 ## 🐶 新手必读（Fre新手2025）
-
-> > > > > > > update-news
+=======
+## 🐶 新手必读（Fre新手20250916）
+>>>>>>> update-news
 
 * 演示地址【Vue3 + element-plus】：<http://dashboard-vue3.yudao.iocoder.cn>
 * 演示地址【Vue3 + vben(ant-design-vue)】：<http://dashboard-vben.yudao.iocoder.cn>
